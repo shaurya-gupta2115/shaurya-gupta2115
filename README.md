@@ -53,15 +53,12 @@
 
 ### 📊 GitHub Stats & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaurya-gupta2115&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-gupta2115&layout=compact&theme=tokyonight&hide_border=false" height="180px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-gupta2115&theme=tokyonight&hide_border=false" width="100%" />
-</div>
-
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-gupta2115&theme=tokyonight&hide_border=false" 
+    height="180em"
+  />
+</p>
 ---
 
 ### 🐍 Activity Stream
