@@ -66,7 +66,7 @@
 
 ### 🐍 Activity Stream
 
-![Snake animation](https://github.com/shaurya-gupta2115/shaurya-gupta2115/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shaurya-gupta2115/shaurya-gupta2115/blob/output/github-snake.gif)
 ---
 
 ### 🤝 Let's Connect!
