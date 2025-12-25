@@ -35,6 +35,8 @@ jobs:
 
     timeout-minutes: 10
 
+    permissions:
+      contents: write
 
 
     steps:
@@ -94,4 +96,3 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
-
