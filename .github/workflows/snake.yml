@@ -16,7 +16,7 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: shauryagupta2125
+          github_user_name: shaurya-gupta2115
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
