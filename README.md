@@ -23,7 +23,7 @@
       <td width="50%">
         <ul>
           <li>🎓 <b>B.Tech in CSE (AI & ML)</b> @ Ajay Kumar Garg Engineering College</li>
-          <li>💼 <b>Assistant AI Engineer Intern</b> @ Dailoqa (Noida)</li>
+          <li>💼 <b>Associate AI Engineer Intern</b> @ Dailoqa (Noida)</li>
           <li>🔥 Specialized in <b>Scalable Systems & AI Architectures</b></li>
           <li>🌱 Exploring <b>Golang, Microservices & LLM Orchestration</b></li>
           <li>🧠 Problem solver with a passion for <b>Clear Logic & System Design</b></li>
